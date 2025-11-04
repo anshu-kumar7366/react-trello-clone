@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" src="" />
-</div>
+
 
 # Run and deploy 
 
