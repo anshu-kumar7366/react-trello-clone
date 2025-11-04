@@ -1,0 +1,5 @@
+
+{
+  "name": "React Trello Clone",
+  "description": "A complete Trello clone application built with React and Tailwind CSS, featuring lists, cards, drag-and-drop functionality, and a detailed side panel for editing. All data is saved to local storage."
+}
